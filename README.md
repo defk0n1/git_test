@@ -1,4 +1,4 @@
 # git_test
-## My first repo
-
+My first repo
+Hello Odin!
 
